@@ -28,13 +28,6 @@ public class You
 
 	// Write your code here
 	
-public You()
-{
-	firstName="Rahul";
-	lastName="Surana";
-	favoriteAnimal="Wolf";
-	age=17;
-}
 public String getFullName()
 {
 	return firstName + " " + lastName;
